@@ -85,7 +85,7 @@ ul {
         font-weight: 600;
 
         &::before {
-            content: url('img/check-2.svg');
+            content: url('/financiamento/img/check-2.svg');
             margin-right: 0.5rem;
         }
     }
