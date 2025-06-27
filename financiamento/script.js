@@ -30,16 +30,3 @@ faq.forEach((faq, index) => {
     })
   });
 });
-
-// const testimonials = document.querySelector('#testimonials');
-// const blockquotes = document.querySelectorAll('blockquote');
-
-// //auto scroll testimonials and add new blockquote on end
-// setInterval(() => {
-//     const firstBlockquote = blockquotes[0];
-//     firstBlockquote.style.animation = 'scrollLeft 5s linear infinite';
-//   setTimeout(() => {
-//       testimonials.removeChild(firstBlockquote);
-//       testimonials.appendChild(firstBlockquote);
-//   }, 300)
-// }, 5000);
